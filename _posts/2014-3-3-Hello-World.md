@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yay! My First Jekyll
+title: The page will be updated soon!
 ---
 
 More to come! Stay tuned!!!
