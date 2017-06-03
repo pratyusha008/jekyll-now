@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Cirriculum
-permalink: /cirriculum/
+title: Curriculum
+permalink: /curriculum/
 ---
 
-Cirriculum
+Curriculum
 
 ### More Information
 
