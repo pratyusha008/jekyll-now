@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /home/
+permalink: /about/
 ---
 
 SruthiRanjani is an Indian Classical Music Online Academy which is a comprehensive and traditional platform to study Carnatic Classical and Semi classical music. SruthiRanjani is a blend of music, values, tradition and respect and prepares the students to make a career in music, enjoy it, attain self-satisfaction and also aims to establish the divine “Guru-Sishya” relation and build their character and creativity.
