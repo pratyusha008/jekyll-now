@@ -4,4 +4,4 @@ title: Contact Us
 permalink: /contactus/
 ---
 
-[enquiry.sahana@gmail.com](mailto:enquiry.sahana@gmail.com)
+[enquiry.sruthiranjani@gmail.com](mailto:enquiry.sruthiranjani@gmail.com)

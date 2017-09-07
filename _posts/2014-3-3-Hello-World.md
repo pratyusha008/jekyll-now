@@ -1,9 +1,12 @@
 ---
 layout: post
-title: The page will be updated soon!
+title: About
 ---
 
-More to come! Stay tuned!!!
+Our ultimate goal is to make you experience the best of yourselves through music which is the purest form of sound and highest form of divine.
+
+So... Hurry up for registrations.. We are always open for you.
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
