@@ -56,7 +56,7 @@ h2 {
 
 h3 {
   font-size: 20px;
-  color: $orange;
+  color: $orange !important;
 }
 
 h4 {
@@ -246,6 +246,11 @@ nav {
 // .main
 //
 
+article{
+  margin: 0 auto;
+  width:80%;
+  color: $blue
+}
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
