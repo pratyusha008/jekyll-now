@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Curriculum
-permalink: /curriculum/
+title: What Do You Learn 
+permalink: /learnings/
 ---
 
-Curriculum
+What Do You Learn
 
 ### More Information
 
