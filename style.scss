@@ -24,11 +24,9 @@ body {
 }
 
 .container {
-  margin: 0 auto;
-  max-width: 740px;
   padding: 0 10px;
-  width: 100%;
-  text-align:justify;
+  width: 95%;
+  text-align: justify;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -181,8 +179,7 @@ img {
   }
 
   img {
-    height: 100px;
-    width: 250px;
+    width:80% !important;
     max-width: none !important;
   }
 }
