@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Abheri Music e-Cademy is an Indian classical music online academy which is a comprehensive and traditional platform to study Carnatic classical, Hindustani and Semi classical music. Abheri is a blend of music, values, tradition and respect and prepares the students to make a career in music, enjoy it, attain self-satisfaction and also aims to establish the divine "Guru-Sishya" relation and build their character and creativity.
+SruthiRanjani is an Indian Classical Music Online Academy which is a comprehensive and traditional platform to study Carnatic Classical and Semi classical music. SruthiRanjani is a blend of music, values, tradition and respect and prepares the students to make a career in music, enjoy it, attain self-satisfaction and also aims to establish the divine “Guru-Sishya” relation and build their character and creativity.
 
 ### Mission
-We at Abheri aim to develop creativity in the students through music through which the students not only learn to sing but also become creative and well focussed.
+We at SruthiRanjani aim to teach music that brings physical, emotional and spiritual well-being along with the technical expertise. We also make sure that students follow few etiquettes that improves their character and personality throughout their life.
 
 ### Teachers
-The Teachers of Abheri are well trained classical musicians with Masters degrees and several other awards. Under the guidance of renowned classical gurus like Smt. P. Suseela Subramanyam, Smt. M. Jalajakshi, Sri. Srinivasa Narasimha Murthy, Smt. Panthula Rama, Smt. Ivaturi Jagadamba, Sri. Dwaram Satyanarayana, Smt. Nethi Sarala  and several other eminent musicians have guided them in their musical journey who have been the students of trend setters in Classical music like Sri. Madurai Mani Iyer, Sri Ivaturi Vijayeswararao, Sri. Nedunuri Krishna Murthy, Sri. I V L Sastry, Sri N C H Krishnamacharyulu etc, the teachers of Abheri are not only efficient in teaching music but also proven personalities to inculcate behavior and values in the students. 
+The Teachers of SruthiRanjani are well experienced classical musicians who stand as an example of perfection in music gained through sincere practice and discipline. They are dedicated teachers who teach students according their pulse. SruthiRanjani Teachers are committed to teach the purest form of music and enhance the value of Indian Arts. SruthiRanjani makes sure that whatever be the medium of teaching, the traditional Guru Kul way of learning is followed where the Gurus were given utmost importance and students are molded to become the best persons of their selves.
 
 
 
