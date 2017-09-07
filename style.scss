@@ -111,10 +111,10 @@ img {
   max-width: 100%;
 }
 .orange{
-  background-color: rgb(237,125,49);
+  color: rgb(237,125,49);
 }
 .blue{
-  background-color: rgb(91,155,213);
+  color: rgb(91,155,213);
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -181,7 +181,9 @@ img {
   }
 
   img {
-    border-radius: 5px;
+    height: 100px;
+    width: 250px;
+    max-width: none !important;
   }
 }
 
