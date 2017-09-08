@@ -8,13 +8,13 @@ permalink: /learnings/
 Music  is an ocean and it's a life time deal. There will be a lot left to learn even if one is an eminent musician with more than 50 years of practice and expertise. Therefore fitting it into a curriculum or framework is not the right approach to learn music. We believe that what one can learn in a given time depends on the individual's passion to learn, hard work and most importantly practice. But as some of the most prominent musicians developed an appropriate approach towards understanding the basics and getting better through various techniques of music, SruthiRanjani also follows the traditional approach of learning music.
 
 For a person who wants to start music afresh,
-
-	✓ _Saraliswaras_
-	✓Jantaswaras
-	✓Daatu swaras
-	✓Hechhu sthayi swaras
-	✓Alankaras
-
+<ul>
+	<li>Saraliswaras</li>
+	<li>Jantaswaras</li>
+	<li>Daatu swaras</li>
+	<li>Hechhu sthayi swaras</li>
+	<li>Alankaras</li>
+</ul>
 
 in Raga MAYAMALAVAGOWLA along with few easy bhajans are taught through which the student can understand the concept of Sruthi(Pitch), Talam(Rhythm) both practically and theoritically.
 SruthiRanjani makes sure that the student is well equipped with all the notes for the same.
