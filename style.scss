@@ -52,6 +52,7 @@ h1 {
 
 h2 {
   font-size: 24px;
+  color: $orange;
 }
 
 h3 {
@@ -130,8 +131,9 @@ img {
 }
 
 img.home-trimurthis{
-  float:left;
-  margin-right:50px;
+  margin: 0 auto;
+  display: block;
+  height: 250px
 }
 
 // Specify the color of the selection

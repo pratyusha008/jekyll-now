@@ -9,11 +9,11 @@ Music  is an ocean and it's a life time deal. There will be a lot left to learn 
 
 For a person who wants to start music afresh,
 <ul>
-	<li>_Saraliswaras_</li>
-	<li>_Jantaswaras_</li>
-	<li>_Daatu swaras_</li>
-	<li>_Hechhu sthayi swaras_</li>
-	<li>_Alankaras_</li>
+	<li>Saraliswaras</li>
+	<li>Jantaswaras</li>
+	<li>Daatu swaras</li>
+	<li>Hechhu sthayi swaras</li>
+	<li>Alankaras</li>
 </ul>
 
 in Raga MAYAMALAVAGOWLA along with few easy bhajans are taught through which the student can understand the concept of Sruthi(Pitch), Talam(Rhythm) both practically and theoritically.
