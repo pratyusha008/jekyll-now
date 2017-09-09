@@ -195,7 +195,9 @@ img.home-trimurthis{
     width:811px;
   }
 }
-
+.mainpage-section{
+  margin:150px auto;  
+}
 .site-info {
   float: left;
 
@@ -256,9 +258,7 @@ nav {
 //
 // .main
 //
-#main{
-  min-height:300px;
-}
+
 article{
   margin: 0 auto;
   width:80%;
