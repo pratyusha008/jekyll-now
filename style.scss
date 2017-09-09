@@ -52,15 +52,16 @@ h1 {
 
 h2 {
   font-size: 24px;
-  color: $orange;
+  color: $black;
+  text-align:center;
 }
 
 h3 {
   font-size: 20px;
-  color: $orange !important;
+  color: $black !important;
 }
 p{
-  color:$blue;
+  color:rgb(80,80,80);
 }
 
 h4 {
@@ -182,6 +183,7 @@ img.home-trimurthis{
 
 .site-avatar {
   display:inline-block;
+  width:100%;
 
   @include mobile {
     float: none;
@@ -190,8 +192,7 @@ img.home-trimurthis{
   }
 
   img {
-    width:80% !important;
-    max-width: none !important;
+    width:811px;
   }
 }
 
