@@ -256,7 +256,9 @@ nav {
 //
 // .main
 //
-
+#main{
+  min-height:300px;
+}
 article{
   margin: 0 auto;
   width:80%;
@@ -296,12 +298,15 @@ article{
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: #333;
+  color:$white;
 }
 
 footer {
   padding: 20px 0;
   text-align: center;
+  width:60%;
+  margin:0 auto;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
