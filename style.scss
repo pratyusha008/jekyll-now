@@ -30,7 +30,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $ComicSans;
   color: $darkerGray;
   font-weight: bold;
 
@@ -260,7 +260,7 @@ nav {
 article{
   margin: 0 auto;
   width:80%;
-  font-family:"Comic Sans MS";
+  font-family:$ComicSans;
 }
 .posts > .post {
   padding-bottom: 2em;
