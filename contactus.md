@@ -5,10 +5,10 @@ permalink: /contactus/
 
 <div class="contactus-info">
 <div class="contactus-header">
-## For enquiries and registrations 
+<h2>For enquiries and registrations </h2>
 </div>
 
-Call: +91 9951113701, +91 7989981469
+<p>Call: +91 9951113701, +91 7989981469</p>
 
 email: enquiry.sruthiranjani@gmail.com
 </div>
