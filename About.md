@@ -11,7 +11,7 @@ We at SruthiRanjani aim to teach music that brings physical, emotional and spiri
 
 
 ### Teachers
-The Teachers of SruthiRanjani are well experienced classical musicians who stand as an example of perfection in music gained through sincere practice and discipline. They are dedicated teachers who teach students according their pulse. SruthiRanjani Teachers are committed to teach the purest form of music and enhance the value of Indian Arts. SruthiRanjani makes sure that whatever be the medium of teaching, the traditional Guru Kul way of learning is followed where the Gurus were given utmost importance.
+The Teachers of SruthiRanjani are well experienced classical musicians who stand as an example of perfection in music gained through sincere practice and discipline. They are dedicated teachers who teach students according their pulse. SruthiRanjani Teachers are committed to teach the purest form of music and enhance the value of Indian Arts. SruthiRanjani makes sure that whatever be the medium of teaching, the traditional GuruKul way of learning is followed where the Gurus were given utmost importance.
 
 
 
