@@ -80,6 +80,7 @@ a {
 	cursor: pointer;
   &:hover, &:active {
     color: $white;
+    text-decoration:underline
   }
 }
 
@@ -200,7 +201,7 @@ img.home-trimurthis{
   }
 
   img {
-    width:600px;
+    width:565px;
     height:300px
 
   }
