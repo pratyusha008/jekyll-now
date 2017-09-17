@@ -200,7 +200,9 @@ img.home-trimurthis{
   }
 
   img {
-    width:811px;
+    width:600px;
+    height:300px
+
   }
 }
 .mainpage-section{
@@ -259,7 +261,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $white;
     }
   }
 }
