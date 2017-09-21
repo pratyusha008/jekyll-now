@@ -17,35 +17,25 @@ For a person who wants to start music afresh,
  - Hechhu sthayi swaras
  - Alankaras
 
-<ul>
-	<li>Saraliswaras</li>
-	<li>Jantaswaras</li>
-	<li>Daatu swaras</li>
-	<li>Hechhu sthayi swaras</li>
-	<li>Alankaras</li>
-</ul>
-
 in Raga MAYAMALAVAGOWLA along with few easy bhajans are taught through which the student can understand the concept of Sruthi(Pitch), Talam(Rhythm) both practically and theoritically.
 SruthiRanjani makes sure that the student is well equipped with all the notes for the same.
 
 For a person who already has understanding of the above said basics,
-<ul>
-	<li>Geethams</li>
-	<li>Swarapallavis</li>
-	<li>Swarajathis</li>
-</ul>
+
+ - Geethams
+ - Swarapallavis
+ - Swarajathis
 
 in various ragas and rythm patterns along with few simple keerthans/krithis are taught that not only brings betterment in the understanding of Sruthi and laya but also makes the student understand the concept of ragas and their characteristics.
 SruthiRanjani gives a detailed notes and explanation for the same.
 
 For a person whom we believe to be strong in the above said levels after standard scrutiny by our teachers,
-<ul>
-	<li>Varnam</li>
-	<li>Krithis</li>
-	<li>Padam</li>
-	<li>Javali</li>
-	<li>Jathis are taught along with practice techniques that inculcates creativity(Manodharmam) and prepares the student to sing in concerts/perform on stages.</li>
-</ul>
+
+ - Varnam
+ - Krithis
+ - Padam
+ - Javali
+ - Jathis are taught along with practice techniques that inculcates creativity(Manodharmam) and prepares the student to sing in concerts/perform on stages.
 
 As this is a very crucial stage of learning music, SruthiRanjani assures the student with best practice guidelines.
 Also, by the end of this level, the student will have a clear practical and theoretical idea of Saptaswaras, Sruthi, 35 talas, swarasthanas, characteristics of various ragas and gets the ability to sing in 3 speeds and also the ability to sing the basics in different ragas.
