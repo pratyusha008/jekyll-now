@@ -26,7 +26,7 @@ body {
 .container {
   padding: 0 10px;
   width: 95%;
-  text-align: justify;
+  text-align: left;
   margin:0 auto;
 }
 
@@ -55,11 +55,17 @@ h2 {
   font-size: 36px;
   color: $black;
   text-align:center;
+  @include mobile {
+    font-size:30px;
+  }
 }
 
 h3 {
   font-size: 26px;
   color: $black !important;
+  @include mobile {
+    font-size:24px;
+  }
 }
 p{
   color:rgb(0,0,0);
@@ -202,8 +208,10 @@ img.home-trimurthis{
 
   img {
     width:565px;
-    height:300px
-
+    height:300px;
+    @include mobile {
+      height:220px
+    }
   }
 }
 .mainpage-section{
@@ -324,6 +332,9 @@ footer .footer-note{
   margin-bottom:20px;
   font-family:"Roboto";
   font-size:22px;
+  @include mobile {
+    font-size:16px;
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
