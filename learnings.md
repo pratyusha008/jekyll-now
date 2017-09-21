@@ -10,6 +10,13 @@ Music is an ocean and it's a life time deal. There will be a lot left to learn e
 <img class="home-trimurthis" src="/images/trimurthis.jpg" />
 
 For a person who wants to start music afresh,
+
+ - Saraliswaras
+ - Jantaswaras
+ - Daatu swaras
+ - Hechhu sthayi swaras
+ - Alankaras
+
 <ul>
 	<li>Saraliswaras</li>
 	<li>Jantaswaras</li>
