@@ -7,7 +7,7 @@ permalink: /
 
 <h2 class="mainpage-section">Welcome to the World of Traditional Music - the purest form of sound and the highest form of divine to experience the best of yourself.</h2>
 
-### About Sruthi Ranjani
+### About SruthiRanjani
 
 SruthiRanjani is an Indian Classical Music Online Academy which is a comprehensive and traditional platform to study Carnatic Classical and Semi Classical Music. If you are someone looking for a wonderful musical journey and experience its invaluable joy and divinity irrespective of your age, experience or profession, SruthiRanjani is the right choice for you! Do not wait to start your journey of Music with a Guru who can refine your singing abilities besides imparting values and etiquettes that improve character and personality. 
 
