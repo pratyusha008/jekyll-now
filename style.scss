@@ -52,17 +52,17 @@ h1 {
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 36px;
   color: $black;
   text-align:center;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 26px;
   color: $black !important;
 }
 p{
-  color:rgb(80,80,80);
+  color:rgb(0,0,0);
 }
 
 h4 {
@@ -322,6 +322,8 @@ footer {
 }
 footer .footer-note{
   margin-bottom:20px;
+  font-family:"Roboto";
+  font-size:22px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
