@@ -8,7 +8,7 @@ permalink: /contactus/
 <h2>For enquiries and registrations </h2>
 </div>
 
-<p>Call: +91 9951113701, +91 7989981469</p>
+<p>Call: +91 8500262906, +91 8179974003</p>
 
 email: enquiry.sruthiranjani@gmail.com
 </div>
